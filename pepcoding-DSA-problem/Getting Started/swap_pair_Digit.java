@@ -1,4 +1,4 @@
-public class Swap_pair_Digit {
+public class swap_pair_Digit {
 
 	public static int swapDigitPairs(int number) {
 		int result = 0;
