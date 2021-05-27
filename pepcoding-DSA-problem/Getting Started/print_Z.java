@@ -7,5 +7,6 @@ public class print_Z {
 		System.out.println("  *");
 		System.out.println(" *");
 		System.out.println("*****");
+		// hii how are you 
 	}
 }
